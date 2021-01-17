@@ -1,24 +1,23 @@
-2021-01-17 17:41:14,178  [INFO]  CytoReasonTest.py::<module>  started running
-2021-01-17 17:41:17,423  [INFO]  CytoReasonTest.py::main  User chose2
-2021-01-17 17:41:20,143  [INFO]  CytoReasonTest.py::RnaSequencing  Main data was loaded
-2021-01-17 17:41:21,164  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:22,161  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:23,195  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:24,187  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:25,111  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:26,084  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:27,027  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:28,086  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:29,043  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:30,031  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:30,956  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:31,925  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:32,861  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:33,822  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:34,733  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:35,669  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:36,586  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:37,736  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:38,633  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:39,613  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
-2021-01-17 17:41:39,615  [INFO]  CytoReasonTest.py::RnaSequencing  Data uploaded to csv file
+2021-01-17 19:21:24,328  [INFO]  CytoReasonTest.py::<module>  started running
+2021-01-17 19:21:26,846  [INFO]  CytoReasonTest.py::main  User chose1
+2021-01-17 19:21:30,722  [INFO]  CytoReasonTest.py::GSEParsing  Main data was loaded
+2021-01-17 19:21:32,114  [INFO]  CytoReasonTest.py::GSEParsing  200066260Id data was loaded
+2021-01-17 19:21:33,073  [INFO]  CytoReasonTest.py::GSEParsing  200045602Id data was loaded
+2021-01-17 19:21:34,066  [INFO]  CytoReasonTest.py::GSEParsing  200037064Id data was loaded
+2021-01-17 19:21:35,044  [INFO]  CytoReasonTest.py::GSEParsing  200030751Id data was loaded
+2021-01-17 19:21:36,072  [INFO]  CytoReasonTest.py::GSEParsing  100013939Id data was loaded
+2021-01-17 19:21:37,095  [INFO]  CytoReasonTest.py::GSEParsing  300762998Id data was loaded
+2021-01-17 19:21:38,068  [INFO]  CytoReasonTest.py::GSEParsing  300762997Id data was loaded
+2021-01-17 19:21:39,033  [INFO]  CytoReasonTest.py::GSEParsing  300762996Id data was loaded
+2021-01-17 19:21:40,032  [INFO]  CytoReasonTest.py::GSEParsing  300762995Id data was loaded
+2021-01-17 19:21:40,947  [INFO]  CytoReasonTest.py::GSEParsing  300762994Id data was loaded
+2021-01-17 19:21:41,938  [INFO]  CytoReasonTest.py::GSEParsing  300762993Id data was loaded
+2021-01-17 19:21:42,889  [INFO]  CytoReasonTest.py::GSEParsing  300762992Id data was loaded
+2021-01-17 19:21:43,920  [INFO]  CytoReasonTest.py::GSEParsing  300762991Id data was loaded
+2021-01-17 19:21:44,845  [INFO]  CytoReasonTest.py::GSEParsing  300762990Id data was loaded
+2021-01-17 19:21:45,843  [INFO]  CytoReasonTest.py::GSEParsing  300762989Id data was loaded
+2021-01-17 19:21:46,784  [INFO]  CytoReasonTest.py::GSEParsing  300762988Id data was loaded
+2021-01-17 19:21:47,755  [INFO]  CytoReasonTest.py::GSEParsing  300762987Id data was loaded
+2021-01-17 19:21:47,756  [INFO]  CytoReasonTest.py::GSEParsing  Created Json
+2021-01-17 19:21:47,818  [INFO]  CytoReasonTest.py::GSEParsing  Data Now is in pd df
+2021-01-17 19:21:47,890  [INFO]  CytoReasonTest.py::GSEParsing  Data uploaded to csv file
