@@ -1,0 +1,24 @@
+2021-01-17 17:41:14,178  [INFO]  CytoReasonTest.py::<module>  started running
+2021-01-17 17:41:17,423  [INFO]  CytoReasonTest.py::main  User chose2
+2021-01-17 17:41:20,143  [INFO]  CytoReasonTest.py::RnaSequencing  Main data was loaded
+2021-01-17 17:41:21,164  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:22,161  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:23,195  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:24,187  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:25,111  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:26,084  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:27,027  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:28,086  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:29,043  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:30,031  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:30,956  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:31,925  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:32,861  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:33,822  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:34,733  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:35,669  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:36,586  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:37,736  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:38,633  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:39,613  [INFO]  CytoReasonTest.py::RnaSequencing  Id data was loaded
+2021-01-17 17:41:39,615  [INFO]  CytoReasonTest.py::RnaSequencing  Data uploaded to csv file
